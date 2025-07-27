@@ -1,7 +1,4 @@
 This is the index.m
 this is hylland
 wuhuhu
-tttttttttttttttttttttttttt
-yyyyyyyyyyyyyyyyyyyyyyyyy
-kkkkkkkkkkkkkkkkkkkkkkkkkkk
-aaaaaaaaaaaaaaaaaaaaaaaaa
+
